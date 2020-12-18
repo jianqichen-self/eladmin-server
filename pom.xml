@@ -15,6 +15,7 @@
         <module>eladmin-system</module>
         <module>eladmin-tools</module>
         <module>eladmin-generator</module>
+        <module>eladmin-test</module>
     </modules>
 
     <name>EL-ADMIN 后台管理</name>
@@ -24,6 +25,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.0.RELEASE</version>
+        <relativePath/>
     </parent>
 
     <properties>
